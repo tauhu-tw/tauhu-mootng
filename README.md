@@ -1,8 +1,9 @@
-#《毛斷》 *Moo-tn̄g*
+#Moo-tng
+
+> Modern.
 
 A Font.  
-
-Modified from *BabelStone Modern*.
+Modified from BabelStone Modern.
 
 ##Preview
 ![Moo-tng](https://raw.githubusercontent.com/glll4678/Moo-tng/master/Moo-tng.png)
