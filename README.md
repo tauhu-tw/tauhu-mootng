@@ -1,8 +1,15 @@
-#《毛斷》 Moo-tng
+#《毛斷》 *Moo-tn̄g*
 
 A Font.  
 
 Modified from *BabelStone Modern*.
+
+##Preview
+![Moo-tng](https://raw.githubusercontent.com/glll4678/Moo-tng/master/Moo-tng.png)
+
+##Download
+[TTF](https://github.com/glll4678/Moo-tng/raw/master/Moo-tng.ttf)  
+[WOFF](https://github.com/glll4678/Moo-tng/raw/master/Moo-tng.woff)
 
 ##Version
 20160703
