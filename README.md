@@ -3,7 +3,7 @@
 > Modern.
 
 A Font.  
-Modified from BabelStone Modern.
+Modified from [BabelStone Modern](http://www.babelstone.co.uk/Fonts/).
 
 ##Preview
 ![Moo-tng](https://raw.githubusercontent.com/glll4678/Moo-tng/master/Moo-tng.png)
