@@ -2,7 +2,7 @@
 
 > Modern.
 
-A Font.  
+A Font for Tâi-lô, Pe̍h-ōe-jī, Pha̍k-fa-sṳ.  
 Modified from [BabelStone Modern](http://www.babelstone.co.uk/Fonts/).
 
 ##Preview
@@ -13,11 +13,7 @@ Modified from [BabelStone Modern](http://www.babelstone.co.uk/Fonts/).
 [WOFF](https://github.com/glll4678/Moo-tng/raw/master/Moo-tng.woff)
 
 ##Version
-20160706
-
-- Modify number 0, to distinguish from alphabet O.  
-- Remove glyphs of control characters.  
-- Add glyphs of U+030D, U+0358.
+20161003
 
 ##License
 SIL Open Font License 1.1
