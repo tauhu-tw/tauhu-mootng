@@ -2,8 +2,6 @@
 
 支援本土語言羅馬字的等寬字型，修改自 [Babelstone Modern](http://www.babelstone.co.uk/Fonts/Download/BabelStoneModern.ttf)。
 
- **[下載](https://github.com/tauhu-tw/tauhu-mootng/raw/master/TauhuMootng-Regular.otf)**
-
 ## 發佈日期
 - 2019-03-30
 
