@@ -1,10 +1,10 @@
-# Tāu-hū Môo-tn̄g
+# Tāu-hū Môo-tn̄g 20.05
 
 支援本土語言羅馬字的等寬字型，修改自 [Babelstone Modern](http://www.babelstone.co.uk/Fonts/Download/BabelStoneModern.ttf)。
 
 ## 發佈日期
 
-- 2019-03-31
+- 2020-05-17
 
 ## 支援字符
 
